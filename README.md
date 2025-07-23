@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Forecasting
 
-<img src="thumbnail.png" width="600"/>
+![Video Game Sales Forecasting](video_game_sales.png)
 
 This project forecasts global video game sales based on historical data, reviews, platform, and genre.
 
